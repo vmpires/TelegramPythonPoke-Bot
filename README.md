@@ -1,2 +1,3 @@
 # TelegramPythonBot
-A simple Telegram bot in Python.
+
+An Old School Pokédex Telegram bot in Python hosted on Heroku.
